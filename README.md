@@ -13,7 +13,7 @@ This project is a React-based weather application that allows users to quickly a
 
 Instructions on how to run the project locally (if applicable). For example:
 
-1.  Clone the repository: `git clone [your repository URL]`
+1.  Clone the repository: `git clone https://github.com/shivamkumar692005/Weather_App_By_React`
 2.  Install dependencies: `npm install`
 3.  Start the development server: `npm start`
 
